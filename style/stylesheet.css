@@ -1,0 +1,69 @@
+.intro{
+    display: flex;
+    justify-content: space-between;
+    gap:5px;
+    width: 15%;
+    color:brown;
+    background-color:aliceblue;
+    border:2px solid brown;
+    margin: 0px ;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.picture{
+    display: flex;
+    justify-content: space-between;
+    gap:5px;
+    width: 15%;
+    color:brown;
+    background-color:aliceblue;
+    border:2px solid brown;
+    margin: 0px ;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.intro1{
+    color:rgb(12, 3, 3);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.description{
+   color:rgb(12, 3, 3);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.software{
+   color:rgb(12, 3, 3);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.Communication{
+    display: flex;
+    justify-content: center;
+    gap:5px;
+    width: 60%;
+    color:brown;
+    background-color:aliceblue;
+    border:2px solid brown;
+    margin: 0px ;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large
+}
+.practice{
+    display: flex;
+    justify-content: space-between;
+    gap:5px;
+    width: 70%;
+    color:black;
+    background-color:aliceblue;
+    border:2px dashed brown;
+    margin: 0px ;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:medium;
+}
+
